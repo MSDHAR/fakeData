@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Spoken English",
+        "id": 1,
+        "fee": 4000,
+        "teacher": "Mr.Rayhan Khan",
+        "img": "https://www.smadent.com/images/11th-english-book-cover.png"
+    },
+    {
+        "name": "Biology",
+        "id": 2,
+        "fee": 6000,
+        "teacher": "M.S Dhar",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71dHf1bqnfL.jpg"
+    },
+    {
+        "name": "Chemistry",
+        "id": 3,
+        "fee": 8000,
+        "teacher": "Mr.Robertson",
+        "img": "https://i.pinimg.com/originals/08/bb/46/08bb4664276b8e3a77b20f0cc964f81c.jpg"
+    },
+    {
+        "name": "Physics",
+        "id": 4,
+        "fee": 6000,
+        "teacher": "Mr. Jonsina",
+        "img": "https://2.bp.blogspot.com/-QPdNwlUGDjc/XM2facR831I/AAAAAAAAWUo/NpWv6uz6Ddsofayf18XWaRhJ_N9pk8ekACLcBGAs/s1600/HSC%2BPhysics%2B1st%2BPart%2Bby%2BDr.%2BAmir%2BHossain%2BKhan%252C%2BMd.%2BIshak%2B%2528Physics%2BText%2BBook%2Bin%2BBengali%2529%2BPDF%2BDownload.jpg"
+    },
+    {
+        "name": "Higher Math",
+        "id": 5,
+        "fee": 8000,
+        "teacher": "Mr.Milton Saha",
+        "img": "https://www.shaalaa.com/images/mathematics-and-statistics-1-arts-and-science-12th-standard-hsc-maharashtra-state-board_6:a050ad90c0124a57a3b775cc0f8ff57b.JPG"
+    },
+    {
+        "name": "Ict",
+        "id": 6,
+        "fee": 4000,
+        "teacher": "Mr.Jual Ahmed",
+        "img": "https://2.bp.blogspot.com/-b0zBkIiaBz8/WZiEPazZkNI/AAAAAAAAPrw/GMUuUj6PX2wzQ0Le2TFkQhyvAzvOwW7PQCLcBGAs/s1600/Information%2Band%2BCommunications%2BTechnology%2BText%2BBook%2BClass%2B11%252C%2B12.jpg"
+    },
+    {
+        "name": "Shatistics",
+        "id": 7,
+        "fee": 6000,
+        "teacher": " Mr.Rajib Chokroborty",
+        "img": "https://1.bp.blogspot.com/-ISWaEDEirKw/XqhvHVJOFGI/AAAAAAAAAo4/hMbUYmRIyIolgczqgZkiAxvpHFTwR5VNACNcBGAsYHQ/s1600/Screenshot_20200426-162259_1.jpg"
+    },
+    {
+        "name": "Agriculture",
+        "id": 8,
+        "fee": 4000,
+        "teacher": " Mr. Sujon Ahmed",
+        "img": "https://1.bp.blogspot.com/-ISWaEDEirKw/XqhvHVJOFGI/AAAAAAAAAo4/hMbUYmRIyIolgczqgZkiAxvpHFTwR5VNACNcBGAsYHQ/s1600/Screenshot_20200426-162259_1.jpg"
+    }
+]
